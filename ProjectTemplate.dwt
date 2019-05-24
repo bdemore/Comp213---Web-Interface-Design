@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<!-- #BeginEditable "doctitle" -->
+<title>Project</title>
+<!-- #EndEditable -->
+<link href="Project.css" rel="stylesheet" type="text/css"/>
+<style type="text/css">}
+</style>
+</head>
+
+<body>
+<header>
+	<ul id="headerli">
+      <li><a href="Homepage.html">Homepage</a></li>&nbsp;&nbsp;&nbsp;&nbsp;
+      <li><a href="Sitemap.html">Sitemap</a></li>&nbsp;&nbsp;&nbsp;&nbsp;
+      <li><a href="Properties.html">Properties</a></li>&nbsp;&nbsp;&nbsp;&nbsp;
+      <li><a href="Contact.html">Contact Us</a></li>&nbsp;&nbsp;&nbsp;&nbsp;
+	</ul>
+</header>
+<h5>
+email: realestate@house.ca
+<br><br>
+Phone: (416) 987 - 1597
+<br><br>
+Mobile: (647) 963 - 2589
+</h5>
+
+<nav>
+<br><br><br>
+	<ul>
+      <li><a href="Homepage.html">Homepage</a></li><blockquote></blockquote>
+      <li><a href="Sitemap.html">Sitemap</a></li><blockquote></blockquote>
+      <li><a href="Properties.html">Properties</a></li><blockquote></blockquote>
+      <li><a href="Contact.html">Contact Us</a></li><blockquote></blockquote>
+	</ul>
+</nav>
+
+<main>
+<!-- #BeginEditable "content" -->
+<div id="layer1" style="position: absolute; width: 800px; height: 510px; z-index: 1; left: 500px; top: 220px">
+
+
+
+</div>
+<!-- #EndEditable -->
+</main>
+
+<footer>
+<br><br>
+	<ul>
+      	<li><a href="Homepage.html">Homepage</a></li>&nbsp;&nbsp;&nbsp;&nbsp;
+        <li><a href="Sitemap.html">Sitemap</a></li>&nbsp;&nbsp;&nbsp;&nbsp;
+        <li><a href="Properties.html">Properties</a></li>&nbsp;&nbsp;&nbsp;&nbsp;
+        <li><a href="Contact.html">Contact Us</a></li>&nbsp;&nbsp;&nbsp;&nbsp;
+	</ul>
+</footer>
+
+</body>
+</html>

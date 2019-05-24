@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<!-- #BeginEditable "doctitle" -->
+<title>Project</title>
+<!-- #EndEditable -->
+<link href="Project.css" rel="stylesheet" type="text/css"/>
+<style type="text/css">
+.auto-style1 {
+	font-weight: normal;
+}
+</style>
+</head>
+
+<body>
+<header>
+<h1 class="auto-style1"></h1>
+	<ul>
+      <li><a href="index.html">Home</a></li>&nbsp;&nbsp;&nbsp;&nbsp;
+      <li><a href="sitemap.html">Sitemap</a></li>&nbsp;&nbsp;&nbsp;&nbsp;
+      <li><a href="directions.html">Directions</a></li>&nbsp;&nbsp;&nbsp;&nbsp;
+      <li><a href="contact.html">Contact</a></li>&nbsp;&nbsp;&nbsp;&nbsp;
+      <li><a href="aboutus.html">About Us</a></li>
+	</ul>
+</header>
+<h5>
+email: realestate@house.ca
+<br><br>
+Phone: (416) 987 - 1597
+<br><br>
+Mobile: (647) 963 - 2589
+</h5>
+
+<nav>
+<br><br><br>
+	<ul>
+      <li><a href="index.html">Home</a></li><blockquote></blockquote>
+      <li><a href="sitemap.html">Sitemap</a></li><blockquote></blockquote>
+      <li><a href="directions.html">Directions</a></li><blockquote></blockquote>
+      <li><a href="contact.html">Contact</a></li><blockquote></blockquote>
+      <li><a href="aboutus.html">About Us</a></li>
+	</ul>
+</nav>
+
+<main>
+<!-- #BeginEditable "content" -->
+<div id="layer1" style="position: absolute; width: 922px; height: 623px; z-index: 1; left: 259px; top: 174px">
+
+</div>
+<!-- #EndEditable -->
+</main>
+
+<footer>
+	
+	<br>
+	<br>
+	<ul>
+      	<li><a href="index.html">Home</a></li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      	<li><a href="sitemap.html">Sitemap</a></li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     	<li><a href="directions.html">Directions</a></li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     	<li><a href="contact.html">Contact</a></li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <li><a href="aboutus.html">About Us</a></li>
+	</ul>
+</footer>
+
+</body>
+</html>

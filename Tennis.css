@@ -1,0 +1,83 @@
+﻿h1 {
+    background-image: url(images/centennial.jpg);
+    background-position: left;
+    background-repeat: no-repeat;
+    padding-left: 300px;
+    height: 300px;
+    border: 1px solid #A8C682;
+    border-radius: 20px;
+    box-shadow: 5px 5px;
+}
+
+h5 {
+    background-image: url(images/credit-card-icons.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 200px;
+    border: 1px solid #A8C682;
+    border-radius: 20px;
+    box-shadow: 5px 5px;
+}
+
+#buttons {
+    margin-left: 500px;
+}
+
+#allpage {
+    background-color: #FFFFF0;
+    border: 2px solid;
+    border: 1px solid #A8C682;
+    border-radius: 20px;
+    box-shadow: 5px 5px;
+}
+
+#tables {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    background-color: #FFFFF0;
+    border: 2px solid;
+    border: 1px solid #A8C682;
+    border-radius: 20px;
+    box-shadow: 5px 5px;
+}
+
+#payment {
+    margin-left: 390px;
+    margin-top: 180px;
+}
+
+.table {
+    align: center;
+    border: 1px solid;
+}
+
+.Rowprice {
+    background-color: lightgreen;
+}
+
+.auto-style1 {
+    margin-left: 0px;
+}
+
+p {
+    margin-left: 300px;
+    margin-top: -200px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    zoom: reset;
+}
+
+#address {
+    width: 500px;
+}
+
+#phone {
+    width: 200px
+}
